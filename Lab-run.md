@@ -14,7 +14,7 @@ This section describes the steps to run your first sample application. For demon
 > **Note**: Alternatively, you can go to the **Code** dropdown list and download the ZIP package.
 
 ## Step 2: Create a Docker File
-1. Open any text editor, such as *Notepad ++* and type the following code
+1. Open any text editor, such as *VS Code* or *Notepad ++* and type the following code
    ```
     # syntax=docker/dockerfile:1
     FROM node:12-alpine
