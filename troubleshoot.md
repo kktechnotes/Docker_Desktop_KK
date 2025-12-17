@@ -1,4 +1,4 @@
-# Troubleshooting
+# Troubleshooting Steps
 This section explains how to troubleshoot plausible errors that can occur during installation or while running sample application
 
 ## Remapping the Local Port to run Container Images
