@@ -12,3 +12,4 @@ This guide explains the process to install Docker Desktop and run a sample appli
 
 ## Things to Improve
  Refer the [Things to Improve](./Things-to-Improve.md) topic to view a list of changes required in the existing Docker Desktop documentation.
+ Add changes related to version upgrade.
