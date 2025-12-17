@@ -1,4 +1,4 @@
-# Installing Docker Desktop on Windows
+# Installing Docker Desktop on Windows - Detailed Guide
 The following tasks must be completed in the listed order:
 
 ## Step 1: Download and Install Docker Desktop on Windows through GUI
