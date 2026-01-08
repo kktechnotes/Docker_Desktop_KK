@@ -12,4 +12,4 @@ This explains the process to install Docker Desktop and run a sample application
 
 ## Things to Improve
  Refer the [Things to Improve](./Things-to-Improve.md) topic to view a list of changes required in the existing Docker Desktop documentation.
- Add changes related to version upgrade on 7th Jan, 2026
+ Add changes related to version upgrade 
