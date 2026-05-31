@@ -6,7 +6,7 @@ Docker Desktop is a GUI application that provides a 360-view of containerized ap
 ## Purpose
 Using this guide, you can install Docker Desktop on your Windows system and run a sample containerized application on Docker.
 
-## Intented Audience
+## Intended Audience
 This guide is developed for anyone who needs to install and work on Docker Desktop for Windows.
 
 ## Revision History
